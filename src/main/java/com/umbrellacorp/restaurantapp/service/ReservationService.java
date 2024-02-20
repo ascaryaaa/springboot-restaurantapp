@@ -1,7 +1,7 @@
-package com.umbrellacorp.restoranapp.service;
+package com.umbrellacorp.restaurantapp.service;
 
-import com.umbrellacorp.restoranapp.model.Reservation;
-import com.umbrellacorp.restoranapp.repository.ReservationRepository;
+import com.umbrellacorp.restaurantapp.model.Reservation;
+import com.umbrellacorp.restaurantapp.repository.ReservationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

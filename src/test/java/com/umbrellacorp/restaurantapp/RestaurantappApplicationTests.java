@@ -1,10 +1,10 @@
-package com.umbrellacorp.restoranapp;
+package com.umbrellacorp.restaurantapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestoranappApplicationTests {
+class RestaurantappApplicationTests {
 
 	@Test
 	void contextLoads() {

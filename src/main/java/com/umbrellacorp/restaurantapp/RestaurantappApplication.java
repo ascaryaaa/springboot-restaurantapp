@@ -1,13 +1,13 @@
-package com.umbrellacorp.restoranapp;
+package com.umbrellacorp.restaurantapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestoranappApplication {
+public class RestaurantappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestoranappApplication.class, args);
+		SpringApplication.run(RestaurantappApplication.class, args);
 	}
 
 }

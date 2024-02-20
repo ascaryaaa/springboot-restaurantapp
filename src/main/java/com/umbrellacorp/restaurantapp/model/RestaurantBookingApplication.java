@@ -1,4 +1,4 @@
-package com.umbrellacorp.restoranapp.model;
+package com.umbrellacorp.restaurantapp.model;
 
 public class RestaurantBookingApplication {
 }

@@ -1,6 +1,5 @@
-package com.umbrellacorp.restoranapp.model;
+package com.umbrellacorp.restaurantapp.model;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.Objects;
 

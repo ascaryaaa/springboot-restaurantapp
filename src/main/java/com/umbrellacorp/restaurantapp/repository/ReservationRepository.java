@@ -1,6 +1,6 @@
-package com.umbrellacorp.restoranapp.repository;
+package com.umbrellacorp.restaurantapp.repository;
 
-import com.umbrellacorp.restoranapp.model.Reservation;
+import com.umbrellacorp.restaurantapp.model.Reservation;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
